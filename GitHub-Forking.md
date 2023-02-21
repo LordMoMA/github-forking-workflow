@@ -151,7 +151,7 @@ git branch -d newfeature
 
 **Copyright**
 
-Copyright 2017, Chase Pettit
+Copyright 2023, Lord MoMA
 
 MIT License, http://www.opensource.org/licenses/mit-license.php
  
